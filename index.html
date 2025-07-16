@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base href="/">
+
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="Akshya's Flutter Portfolio">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Akshya Portfolio">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+<!-- Favicon from /favicon/ folder -->
+<link rel="icon" type="image/png" sizes="96x96" href="favicon/favicon-96x96.png">
+<link rel="icon" type="image/svg+xml" href="favicon/favicon.svg">
+<link rel="shortcut icon" href="favicon/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+<link rel="manifest" href="favicon/site.webmanifest">
+
+  <title>Akshya Portfolio</title>
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+
+  <!-- 🔄 Show loading spinner from loader.html -->
+  <iframe src="loader.html" id="loader-frame" style="border: none; width: 100vw; height: 100vh; position: fixed; top: 0; left: 0; z-index: 9999;"></iframe>
+
+  <!-- ✅ Remove loader when Flutter is ready -->
+  <script>
+    window.addEventListener('load', function () {
+      const loaderFrame = document.getElementById('loader-frame');
+      if (loaderFrame) loaderFrame.remove();
+    });
+  </script>
+
+  <!-- 🚀 Load Flutter app -->
+  <script src="flutter_bootstrap.js" async></script>
+
+</body>
+</html>
