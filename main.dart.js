@@ -37818,7 +37818,7 @@ L(a){var s=null,r=B.i.bJ(0.1)
 return A.cs(A.mQ(A.bq("\xa9 2025 Akshya Kumar. Built with Flutter \u2764\ufe0f Designed for excellence.",s,s,s,A.b9(s,s,B.i.bJ(0.6),s,s,s,s,s,s,s,s,A.cN(a,12,13,14),s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.cL,s),s,s),B.r,s,s,new A.bU(s,s,new A.cW(new A.aK(r,1,B.t,-1),B.q,B.q,B.q),s,s,s,B.U),s,s,new A.ae(40,40,40,40),s)}}
 A.Hj.prototype={
 L(a){var s,r,q=null,p=t.w,o=A.b_(a,q,p).w,n=A.b_(a,q,p).w,m=A.b_(a,q,p).w.a.a<600?120:150,l=A.b_(a,q,p).w.a.a<600?120:150,k=A.b([new A.dn(5,B.dI,B.ak.bJ(0.3),B.h,20)],t.sq)
-m=A.cs(new A.cj(new A.ae(4,4,4,4),A.cs(q,B.r,q,q,new A.bU(B.lO,new A.pY(new A.qN("https://github.com/aksbytedev/flutter-web-assets/blob/main/flutter-web-assets/akshya-portfolio/logo/portfolio_profile.jpg"),B.zj),q,q,q,q,B.dK),q,q,q,q),q),B.r,q,q,new A.bU(q,q,q,q,k,new A.e8(B.aS,B.b_,B.at,B.dd,q,q),B.dK),l,q,q,m)
+m=A.cs(new A.cj(new A.ae(4,4,4,4),A.cs(q,B.r,q,q,new A.bU(B.lO,new A.pY(new A.qN("https://cdn.jsdelivr.net/gh/aksbytedev/flutter-web-assets@main/flutter-web-assets/akshya-portfolio/logo/portfolio_profile.jpg"),B.zj),q,q,q,q,B.dK),q,q,q,q),q),B.r,q,q,new A.bU(q,q,q,q,k,new A.e8(B.aS,B.b_,B.at,B.dd,q,q),B.dK),l,q,q,m)
 l=A.b2(q,30,q)
 k=A.z2(A.bq("Flutter Developer",q,q,q,A.b9(q,q,B.i,q,q,q,q,q,q,q,q,A.cN(a,32,48,64),q,q,B.aF,q,q,!0,q,q,q,q,q,q,q,q),q,q),new A.a_L())
 s=A.b2(q,20,q)
