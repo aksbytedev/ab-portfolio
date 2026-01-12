@@ -39266,10 +39266,10 @@ $1(a){return new A.qy(a,null)},
 $S:362}
 A.HQ.prototype={
 N(a){var s=null,r=B.i.bt(0.1)
-return A.cd(A.nc(A.bd("< \xa9 2025 Akshya. Built with Flutter \u2764\ufe0f Designed for excellence. />",s,s,s,A.aU(s,s,B.i.bt(0.6),s,s,s,s,s,s,s,s,A.cK(a,12,13,14),s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.cr,s),s,s),B.r,s,s,new A.c3(s,s,new A.d8(new A.aO(r,1,B.t,-1),B.q,B.q,B.q),s,s,s,B.a_),s,s,new A.ab(40,40,40,40),s)}}
+return A.cd(A.nc(A.bd("< \xa9 2026 Akshya. Built with Flutter \u2764\ufe0f Designed for excellence. />",s,s,s,A.aU(s,s,B.i.bt(0.6),s,s,s,s,s,s,s,s,A.cK(a,12,13,14),s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.cr,s),s,s),B.r,s,s,new A.c3(s,s,new A.d8(new A.aO(r,1,B.t,-1),B.q,B.q,B.q),s,s,s,B.a_),s,s,new A.ab(40,40,40,40),s)}}
 A.I5.prototype={
 N(a){var s,r,q=null,p=t.w,o=A.aY(a,q,p).w,n=A.aY(a,q,p).w,m=A.aY(a,q,p).w.a.a<600?120:150,l=A.aY(a,q,p).w.a.a<600?120:150,k=A.c([new A.dl(5,B.d6,B.af.bt(0.3),B.h,20)],t.sq)
-m=A.cd(new A.ck(new A.ab(4,4,4,4),A.cd(q,B.r,q,q,new A.c3(B.mi,new A.qm(new A.rc("https://cdn.jsdelivr.net/gh/aksbytedev/flutter-web-assets@main/flutter-web-assets/akshya-portfolio/logo/portfolio_profile.jpg"),B.zE),q,q,q,q,B.dT),q,q,q,q),q),B.r,q,q,new A.c3(q,q,q,q,k,new A.dQ(B.aP,B.aX,B.am,B.cG,q,q),B.dT),l,q,q,m)
+m=A.cd(new A.ck(new A.ab(4,4,4,4),A.cd(q,B.r,q,q,new A.c3(B.mi,new A.qm(new A.rc("https://cdn.jsdelivr.net/gh/aksbytedev/flutter-web-assets@main/flutter-web-assets/akshya-portfolio/logo/portfolio_profile.png"),B.zE),q,q,q,q,B.dT),q,q,q,q),q),B.r,q,q,new A.c3(q,q,q,q,k,new A.dQ(B.aP,B.aX,B.am,B.cG,q,q),B.dT),l,q,q,m)
 l=A.b8(q,30,q)
 k=A.rQ(A.bd("App Developer",q,q,q,A.aU(q,q,B.i,q,q,q,q,q,q,q,q,A.cK(a,32,48,64),q,q,B.ab,q,q,!0,q,q,q,q,q,q,q,q),q,q),new A.a1f())
 s=A.b8(q,20,q)
