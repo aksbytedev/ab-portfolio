@@ -18631,7 +18631,7 @@ r.toString
 A.ed(r)
 q=a.h(0,"swipeEdge")
 q.toString
-return new A.JM(s,r,B.Gt[A.eu(q)])},
+return new A.JM(s,r,B.Gu[A.eu(q)])},
 A1:function A1(a,b){this.a=a
 this.b=b},
 JM:function JM(a,b,c){this.a=a
@@ -27747,7 +27747,7 @@ switch(1){case 1:s="ColorFilter.matrix("+A.k(this.c)+")"
 break}return s}}
 A.a_E.prototype={
 goY(){var s=this.b,r=s==null?null:s.canvasKitVariant
-return A.aDd(B.GE,r==null?"auto":r)},
+return A.aDd(B.GF,r==null?"auto":r)},
 gQC(){var s=this.b
 s=s==null?null:s.canvasKitForceCpuOnly
 return s==null?!1:s},
@@ -29081,7 +29081,7 @@ if(e.b){q=t.f
 d=q.a(q.a(B.bR.fD(a2)).h(0,"data"))
 c=A.cv(d.h(0,"message"))
 if(c!=null&&c.length!==0){b=A.apq(d,"assertiveness")
-e.a.Q7(c,B.G5[b==null?0:b])}}a.eH(a3,B.bR.bS(!0))
+e.a.Q7(c,B.G6[b==null?0:b])}}a.eH(a3,B.bR.bS(!0))
 return
 case"flutter/navigation":q=a.gd4().b
 p=t.e8
@@ -32888,7 +32888,7 @@ m=A.fB(s.h(0,"fontWeightIndex"))
 l=m!=null?A.aLM(m):"normal"
 r=A.aqw(s.h(0,"fontSize"))
 if(r==null)r=null
-p=new A.acX(new A.ZI(r,l,A.cv(s.h(0,"fontFamily")),B.G1[o],B.jK[n]))
+p=new A.acX(new A.ZI(r,l,A.cv(s.h(0,"fontFamily")),B.G2[o],B.jK[n]))
 break
 case"TextInput.clearClient":p=B.AA
 break
@@ -38903,7 +38903,7 @@ r===$&&A.a()
 q=o.f
 q===$&&A.a()
 p=t.p
-return new A.za(A.cd(A.p2(B.d4,A.c([A.abv(A.da(A.c([s,new A.I3(r,q,o.w),new A.FJ(o.x),new A.Hz(o.y),new A.Ls(o.z),new A.Ho(o.Q),new A.GJ(o.as),new A.HO(n)],p),B.aG,B.A,B.B),m,n),A.a7L(n,o.a0J(),n,n,0,0,0,n)],p),B.a1,B.cU),B.r,n,n,new A.c3(n,n,n,n,n,new A.dP(B.cv,B.lt,B.am,B.G2,n,n),B.a_),n,n,n,n),B.G,n)},
+return new A.za(A.cd(A.p2(B.d4,A.c([A.abv(A.da(A.c([s,new A.I3(r,q,o.w),new A.FJ(o.x),new A.Hz(o.y),new A.Ls(o.z),new A.Ho(o.Q),new A.GJ(o.as),new A.HO(n)],p),B.aG,B.A,B.B),m,n),A.a7L(n,o.a0J(),n,n,0,0,0,n)],p),B.a1,B.cU),B.r,n,n,new A.c3(n,n,n,n,n,new A.dP(B.cv,B.lt,B.am,B.G3,n,n),B.a_),n,n,n,n),B.G,n)},
 a0J(){var s,r,q,p,o,n=this,m=null
 $.a5()
 s=B.l.bt(0.1)
@@ -39100,7 +39100,7 @@ $0(){return this.a.mD("https://www.instagram.com/aksbyte")},
 $S:0}
 A.Ho.prototype={
 N(a){var s=null,r=A.FH(a),q=B.l.bt(0.2),p=A.c([A.rP(A.bd("Education",s,s,s,A.aU(s,s,B.i,s,s,s,s,s,s,s,s,A.cK(a,28,32,36),s,s,B.ab,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.ZJ()),B.Oc],t.p)
-B.b.R(p,new A.Z(B.Gw,new A.ZK(),t.aK))
+B.b.R(p,new A.Z(B.Gx,new A.ZK(),t.aK))
 return A.cd(A.da(p,B.aG,B.A,B.B),B.r,q,s,s,s,s,r,s)}}
 A.ZJ.prototype={
 $1(a){return new A.dP(B.aP,B.aX,B.am,B.cG,null,null).mY(a)},
@@ -39110,7 +39110,7 @@ $1(a){return new A.qs(a,null)},
 $S:263}
 A.Hz.prototype={
 N(a){var s=null,r=A.FH(a),q=B.l.bt(0.2),p=A.c([A.rP(A.bd("Professional Experience",s,s,s,A.aU(s,s,B.i,s,s,s,s,s,s,s,s,A.cK(a,28,32,36),s,s,B.ab,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.a_o()),A.b8(s,40,s)],t.p)
-B.b.R(p,new A.Z(B.H8,new A.a_p(),t.aK))
+B.b.R(p,new A.Z(B.Hl,new A.a_p(),t.aK))
 return A.cd(A.da(p,B.aG,B.A,B.B),B.r,q,s,s,s,s,r,s)}}
 A.a_o.prototype={
 $1(a){return new A.dP(B.aP,B.aX,B.am,B.cG,null,null).mY(a)},
@@ -39130,7 +39130,7 @@ s=A.b8(q,20,q)
 p=A.aZ(a,q,p).w.a.a<600?o.a.a*0.9:800
 o=A.cK(a,14,18,20)
 r=t.p
-return A.b8(A.nd(new A.ey(this.c,!1,A.Lw(A.abv(A.da(A.c([m,l,k,s,A.cd(A.bd("Professional App Developer with over 2.8 years of experience building cross-platform applications. Specialized in creating high-performance, responsive apps with stunning UI/UX.",q,q,q,A.aU(q,q,B.i.bt(0.8),q,q,q,q,q,q,q,q,o,q,q,q,q,1.5,!0,q,q,q,q,q,q,q,q),B.cr,q),B.r,q,new A.a7(0,p,0,1/0),q,q,q,new A.ab(20,0,20,0),q),A.b8(q,30,q),A.dG(A.c([A.fm(B.el,B.bq,q,20),A.b8(q,q,8),new A.qy(1,B.n1,A.bd("New Delhi, India",q,q,q,A.aU(q,q,B.bq,q,q,q,q,q,q,q,q,A.cK(a,12,14,16),q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),q)],r),B.hd,B.B),A.b8(q,20,q),A.dG(A.c([A.cd(q,B.r,q,q,new A.c3(B.hh,q,q,q,q,q,B.dT),12,q,q,12),A.b8(q,q,8),new A.qy(1,B.n1,A.bd("Available for freelance & contract projects",q,q,q,A.aU(q,q,B.hh,q,q,q,q,q,q,q,q,A.cK(a,12,14,16),q,q,q,q,q,!0,q,q,q,q,q,q,q,q),B.cr,q),q)],r),B.hd,B.B)],r),B.aG,B.hd,B.B),q,new A.ab(0,10,0,0)),this.d,q,!0),q),q,q),n.a.b-80,q)}}
+return A.b8(A.nd(new A.ey(this.c,!1,A.Lw(A.abv(A.da(A.c([m,l,k,s,A.cd(A.bd("Professional App Developer with over 2.10+ Years Experience building cross-platform applications. Specialized in creating high-performance, responsive apps with stunning UI/UX.",q,q,q,A.aU(q,q,B.i.bt(0.8),q,q,q,q,q,q,q,q,o,q,q,q,q,1.5,!0,q,q,q,q,q,q,q,q),B.cr,q),B.r,q,new A.a7(0,p,0,1/0),q,q,q,new A.ab(20,0,20,0),q),A.b8(q,30,q),A.dG(A.c([A.fm(B.el,B.bq,q,20),A.b8(q,q,8),new A.qy(1,B.n1,A.bd("New Delhi, India",q,q,q,A.aU(q,q,B.bq,q,q,q,q,q,q,q,q,A.cK(a,12,14,16),q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),q)],r),B.hd,B.B),A.b8(q,20,q),A.dG(A.c([A.cd(q,B.r,q,q,new A.c3(B.hh,q,q,q,q,q,B.dT),12,q,q,12),A.b8(q,q,8),new A.qy(1,B.n1,A.bd("Available for freelance & contract projects",q,q,q,A.aU(q,q,B.hh,q,q,q,q,q,q,q,q,A.cK(a,12,14,16),q,q,q,q,q,!0,q,q,q,q,q,q,q,q),B.cr,q),q)],r),B.hd,B.B)],r),B.aG,B.hd,B.B),q,new A.ab(0,10,0,0)),this.d,q,!0),q),q,q),n.a.b-80,q)}}
 A.a17.prototype={
 $1(a){return new A.dP(B.aP,B.aX,B.am,B.GS,null,null).mY(a)},
 $S:37}
@@ -39141,7 +39141,7 @@ A.abH.prototype={
 $1(a){return new A.dP(B.aP,B.aX,B.am,B.cG,null,null).mY(a)},
 $S:37}
 A.abI.prototype={
-$2(a,b){return new A.rT(B.H9[b],null)},
+$2(a,b){return new A.rT(B.H8[b],null)},
 $S:274}
 A.pU.prototype={
 N(a){var s,r=this,q=null,p="playStoreUrl",o="appStoreUrl",n="webUrl",m=B.i.bt(0.05),l=A.c2(20),k=A.vo(B.i.bt(0.1)),j=t.w,i=A.aZ(a,q,j).w.a.a<600?16:24,h=r.c,g=A.hT(A.bd(h.h(0,"name"),q,B.bw,q,A.aU(q,q,B.af,q,q,q,q,q,q,q,q,A.cK(a,18,20,24),q,q,B.ab,q,q,!0,q,q,q,q,q,q,q,q),q,q)),f=A.b8(q,q,8),e=t.p,d=A.c([],e)
@@ -39659,7 +39659,7 @@ h=r[4]
 g=r[5]
 f=r[6]
 e=r[7]
-for(d=l,q=0;q<64;++q,e=f,f=g,g=h,h=b,i=j,j=k,k=d,d=a){c=(e+(((h>>>6|h<<26)^(h>>>11|h<<21)^(h>>>25|h<<7))>>>0)>>>0)+(((h&g^~h&f)>>>0)+(B.Gd[q]+s[q]>>>0)>>>0)>>>0
+for(d=l,q=0;q<64;++q,e=f,f=g,g=h,h=b,i=j,j=k,k=d,d=a){c=(e+(((h>>>6|h<<26)^(h>>>11|h<<21)^(h>>>25|h<<7))>>>0)>>>0)+(((h&g^~h&f)>>>0)+(B.Ge[q]+s[q]>>>0)>>>0)>>>0
 b=i+c>>>0
 a=c+((((d>>>2|d<<30)^(d>>>13|d<<19)^(d>>>22|d<<10))>>>0)+((d&k^d&j^k&j)>>>0)>>>0)>>>0}r.$flags&2&&A.aw(r)
 r[0]=d+l>>>0
@@ -40627,7 +40627,7 @@ r=A.rd(B.Kf,B.h,r==null?1:r)
 r.toString
 p=o.ah(p.gu())
 if(p==null)p=1
-p=A.aur(q,B.r,new A.r0(p,B.Gs,new A.cF(B.zt,this.e)),s,1,B.O8)
+p=A.aur(q,B.r,new A.r0(p,B.Gt,new A.cF(B.zt,this.e)),s,1,B.O8)
 return new A.tk(A.ly(r.a,r.b,0),q,!0,q,p,q)}}
 A.EF.prototype={
 l(){var s=this,r=s.c3$
@@ -43845,7 +43845,7 @@ A.tI.prototype={
 H(){return"_CornerId."+this.b}}
 A.kB.prototype={}
 A.r2.prototype={
-ko(){var s,r,q,p=this,o=A.aKm(B.GH,new A.a5D(p,p.b.gaW().V(0,p.a.gaW()))),n=p.a
+ko(){var s,r,q,p=this,o=A.aKm(B.GI,new A.a5D(p,p.b.gaW().V(0,p.a.gaW()))),n=p.a
 n.toString
 s=o.a
 r=p.ol(n,s)
@@ -47042,7 +47042,7 @@ A.ajz.prototype={
 $2(a,b){return this.a.c4(a,b)},
 $S:15}
 A.Oc.prototype={
-gI6(){return B.Gh},
+gI6(){return B.Gi},
 QH(a){var s,r=this
 switch(a.a){case 0:s=r.d.at
 break
@@ -47671,7 +47671,7 @@ return s.b}}
 A.is.prototype={
 H(){return"_ListTileSlot."+this.b}}
 A.PF.prototype={
-gI6(){return B.GC},
+gI6(){return B.GD},
 QH(a){var s,r=this
 switch(a.a){case 0:s=r.d
 break
@@ -47977,7 +47977,7 @@ r.e=s.a.a
 r.f=s.d},
 $S:0}
 A.J_.prototype={
-N(a){return A.aur(new A.ni(B.Ca,null,null),B.a1,new A.r0(1,B.Hf,new A.cF(B.zs,B.q)),this.c.U(0,new A.f(0,40.95)),1.25,B.O9)}}
+N(a){return A.aur(new A.ni(B.Ca,null,null),B.a1,new A.r0(1,B.He,new A.cF(B.zs,B.q)),this.c.U(0,new A.f(0,40.95)),1.25,B.O9)}}
 A.ob.prototype={
 H(){return"MaterialType."+this.b}}
 A.xN.prototype={
@@ -48339,7 +48339,7 @@ giT(){return A.aMy()},
 Qv(a,b,c,d,e,f){return A.aCb(a,b,c,d,e,f)}}
 A.Ju.prototype={
 a0j(a){var s=t.Tr
-s=A.Y(new A.Z(B.GG,new A.a6X(a),s),s.i("al.E"))
+s=A.Y(new A.Z(B.GH,new A.a6X(a),s),s.i("al.E"))
 return s},
 j(a,b){if(b==null)return!1
 if(this===b)return!0
@@ -53457,7 +53457,7 @@ dq(a){var s,r,q=this.b,p=q.a.c,o=a.V(0,q.ghM())
 p=p.a
 p===$&&A.a()
 s=p.a.getGlyphPositionAtCoordinate(o.a,o.b)
-r=B.Gv[J.ad(s.affinity.value)]
+r=B.Gw[J.ad(s.affinity.value)]
 return new A.a8(J.ad(s.pos),r)},
 rI(){var s,r,q=this.b,p=q.ghM()
 if(!isFinite(p.a)||!isFinite(p.b))return B.GY
@@ -65608,7 +65608,7 @@ q.b7()
 q.cc$.E(0,s.ga8s())
 s.e=q}return q},
 gMj(){var s=this.f
-return s===$?this.f=new A.agt(1,B.G_,B.bM):s},
+return s===$?this.f=new A.agt(1,B.G0,B.bM):s},
 gh_(){var s=this.z
 s=s==null?null:$.bO().d===s
 return s===!0},
@@ -84564,20 +84564,20 @@ B.nk=new A.o3(3,"center")
 B.Fa=new A.o3(4,"bottom")
 B.nl=s(["text","multiline","number","phone","datetime","emailAddress","url","visiblePassword","name","address","none","webSearch","twitter"],t.s)
 B.FB=s([4,9,14,19],t.t)
-B.Hl=s([137,80,78,71,13,10,26,10],t.Z)
+B.Hk=s([137,80,78,71,13,10,26,10],t.Z)
 B.Et=new A.lg(0,"png")
 B.EB=new A.iP(B.Et,!1,0,"png")
-B.Er=new A.jS(B.Hl,B.EB,0,"png")
+B.Er=new A.jS(B.Hk,B.EB,0,"png")
 B.Hm=s([71,73,70,56,55,97],t.Z)
 B.Eq=new A.jS(B.Hm,B.fZ,1,"gif87a")
-B.GF=s([71,73,70,56,57,97],t.Z)
-B.Ep=new A.jS(B.GF,B.fZ,2,"gif89a")
+B.GG=s([71,73,70,56,57,97],t.Z)
+B.Ep=new A.jS(B.GG,B.fZ,2,"gif89a")
 B.Fe=s([255,216,255],t.Z)
 B.Eu=new A.lg(2,"jpeg")
 B.EF=new A.iP(B.Eu,!1,3,"jpeg")
 B.Es=new A.jS(B.Fe,B.EF,3,"jpeg")
-B.FZ=s([82,73,70,70,null,null,null,null,87,69,66,80],t.Z)
-B.Eo=new A.jS(B.FZ,B.nb,4,"webp")
+B.G_=s([82,73,70,70,null,null,null,null,87,69,66,80],t.Z)
+B.Eo=new A.jS(B.G_,B.nb,4,"webp")
 B.FQ=s([66,77],t.Z)
 B.Ev=new A.lg(4,"bmp")
 B.ED=new A.iP(B.Ev,!1,6,"bmp")
@@ -84588,32 +84588,32 @@ B.z6=new A.Dd(1,"anonymous")
 B.FM=s([B.lh,B.z6],A.ak("A<Dd>"))
 B.nm=s([0,4,12,1,5,13,3,7,15],t.t)
 B.JZ={name:0,description:1,status:2,features:3,tech:4,playStore:5,appStore:6,playStoreUrl:7}
-B.G4=s(["Live Market Data","TradingView Charts","Buy & Sell Trades","Multi-Asset Trading","Favorites / Watchlist","Trade History & P/L","Crypto Payments"],t.s)
+B.G5=s(["Live Market Data","TradingView Charts","Buy & Sell Trades","Multi-Asset Trading","Favorites / Watchlist","Trade History & P/L","Crypto Payments"],t.s)
 B.Hq=s(["Flutter","WebSocket","TradingView","REST APIs","Payment Gateway"],t.s)
-B.J7=new A.aX(B.JZ,["Enzo4Ex Trading App","Real-time multi-asset trading app with live charts and instant trade execution.","Live \u2022 Play Store",B.G4,B.Hq,!0,!1,"https://play.google.com/store/apps/details?id=com.enzo4ex.trading"],t.R)
+B.J7=new A.aX(B.JZ,["Enzo4Ex Trading App","Real-time multi-asset trading app with live charts and instant trade execution.","Live \u2022 Play Store",B.G5,B.Hq,!0,!1,"https://play.google.com/store/apps/details?id=com.enzo4ex.trading"],t.R)
 B.eF={name:0,description:1,status:2,features:3,tech:4,playStore:5,appStore:6,playStoreUrl:7,appStoreUrl:8}
 B.Ht=s(["Mobile Recharge (Prepaid/Postpaid)","Money Transfer & Wallet","QR Code Payments","Game Coin Purchase","Broadband & DTH Recharge","Recharge Offers & Discounts"],t.s)
-B.FS=s(["Flutter","Dart","REST APIs","Payment Gateway","State Management"],t.s)
-B.Jx=new A.aX(B.eF,["ShalPay","A complete recharge and payments app for instant mobile recharge, bill payments, money transfer, and game top-ups.","Internal Project \u2022 Live soon ...",B.Ht,B.FS,!1,!1,"",""],t.R)
+B.FT=s(["Flutter","Dart","REST APIs","Payment Gateway","State Management"],t.s)
+B.Jx=new A.aX(B.eF,["ShalPay","A complete recharge and payments app for instant mobile recharge, bill payments, money transfer, and game top-ups.","Internal Project \u2022 Live soon ...",B.Ht,B.FT,!1,!1,"",""],t.R)
 B.tA={name:0,description:1,status:2,features:3,tech:4,playStore:5,appStore:6,webUrl:7}
 B.Hn=s(["Responsive Design","Project Showcase","Animated UI","Single File Theme & Content Management","CI/CD Deployment via GitHub Actions"],t.s)
-B.FY=s(["Flutter Web","Dart","Clean Architecture","GitHub Pages","GitHub Actions"],t.s)
-B.J5=new A.aX(B.tA,["Akshya Portfolio","Personal portfolio website built with Flutter Web, showcasing projects, skills, and work experience. Built using clean architecture where theme and content are controlled from a single configuration file.","Live on Web",B.Hn,B.FY,!1,!1,"https://aksbytedev.github.io/ab-portfolio/"],t.R)
-B.Gb=s(["Admin Content Upload via Supabase","Responsive Single Page Layout","Dynamic Gallery (Images + YouTube)","Single File Theme & Content Management","CI/CD Deployment via GitHub Actions"],t.s)
+B.FZ=s(["Flutter Web","Dart","Clean Architecture","GitHub Pages","GitHub Actions"],t.s)
+B.J5=new A.aX(B.tA,["Akshya Portfolio","Personal portfolio website built with Flutter Web, showcasing projects, skills, and work experience. Built using clean architecture where theme and content are controlled from a single configuration file.","Live on Web",B.Hn,B.FZ,!1,!1,"https://aksbytedev.github.io/ab-portfolio/"],t.R)
+B.Gc=s(["Admin Content Upload via Supabase","Responsive Single Page Layout","Dynamic Gallery (Images + YouTube)","Single File Theme & Content Management","CI/CD Deployment via GitHub Actions"],t.s)
 B.GK=s(["Flutter Web","Dart","Supabase","Clean Architecture","GitHub Actions"],t.s)
-B.J6=new A.aX(B.tA,["Aryan Elevators","A modern single-page landing website for a lift and elevator company, allowing admins to upload gallery photos, titles, and YouTube video links via Supabase. Built using clean architecture with dynamic content and theme control from a single file.","Live on Web",B.Gb,B.GK,!1,!1,"https://aryanelevators.com"],t.R)
-B.G9=s(["Social Feed","Ebooks with Audio","Video Learning","Razorpay Integration"],t.s)
+B.J6=new A.aX(B.tA,["Aryan Elevators","A modern single-page landing website for a lift and elevator company, allowing admins to upload gallery photos, titles, and YouTube video links via Supabase. Built using clean architecture with dynamic content and theme control from a single file.","Live on Web",B.Gc,B.GK,!1,!1,"https://aryanelevators.com"],t.R)
+B.Ga=s(["Social Feed","Ebooks with Audio","Video Learning","Razorpay Integration"],t.s)
 B.GQ=s(["Flutter","Razorpay","Apple IAP","API Integration"],t.s)
-B.Jw=new A.aX(B.eF,["Tiny Droplets","Baby care app with multimedia content, ebooks, video learning, and social features.","Live on Play Store \u2022 Final testing on TestFlight",B.G9,B.GQ,!0,!1,"https://play.google.com/store/apps/details?id=com.tinydroplets.tinydroplets",""],t.R)
-B.Gi=s(["Social Feed","Video Calling","Real-time Chat","User Profiles"],t.s)
-B.Gc=s(["Flutter","WebRTC","WebSocket","Firebase"],t.s)
-B.Jv=new A.aX(B.eF,["Shnut","Social media app with real-time communication, video calling using WebRTC, and chat messaging with WebSocket.","Live on Play Store \u2022 Awaiting App Store approval",B.Gi,B.Gc,!0,!1,"https://play.google.com/store/apps/details?id=shnut.com.shnut",""],t.R)
+B.Jw=new A.aX(B.eF,["Tiny Droplets","Baby care app with multimedia content, ebooks, video learning, and social features.","Live on Play Store \u2022 Final testing on TestFlight",B.Ga,B.GQ,!0,!1,"https://play.google.com/store/apps/details?id=com.tinydroplets.tinydroplets",""],t.R)
+B.Gj=s(["Social Feed","Video Calling","Real-time Chat","User Profiles"],t.s)
+B.Gd=s(["Flutter","WebRTC","WebSocket","Firebase"],t.s)
+B.Jv=new A.aX(B.eF,["Shnut","Social media app with real-time communication, video calling using WebRTC, and chat messaging with WebSocket.","Live on Play Store \u2022 Awaiting App Store approval",B.Gj,B.Gd,!0,!1,"https://play.google.com/store/apps/details?id=shnut.com.shnut",""],t.R)
 B.GL=s(["FD Booking","Scheme Comparison","WebView Communication","Platform Channels"],t.s)
 B.GJ=s(["Flutter","JavaScript Bridge","WebView","Payment Gateway"],t.s)
 B.Jy=new A.aX(B.eF,["Altcase","FD booking & investment platform with scheme comparisons, secure booking, and native platform channel communication.","Available on Play Store and App Store",B.GL,B.GJ,!0,!0,"https://play.google.com/store/apps/details?id=com.altcase.app","https://apps.apple.com/in/app/altcase-private-market-access/id6578441680"],t.R)
 B.GN=s(["Guard Tracking","Firebase Chat","Property Booking","QR Scanner"],t.s)
-B.Gk=s(["Flutter","BLoC","Firebase","QR Code"],t.s)
-B.Ju=new A.aX(B.eF,["Arrow Track (SGT)","Security guard tracking system with chat, property booking, and QR scanning features.","Live on App Store and Play Store",B.GN,B.Gk,!0,!0,"https://play.google.com/store/apps/details?id=com.dbm.sgt","https://apps.apple.com/us/app/taskcheck-by-arrowtrack/id6504231465"],t.R)
+B.Gl=s(["Flutter","BLoC","Firebase","QR Code"],t.s)
+B.Ju=new A.aX(B.eF,["Arrow Track (SGT)","Security guard tracking system with chat, property booking, and QR scanning features.","Live on App Store and Play Store",B.GN,B.Gl,!0,!0,"https://play.google.com/store/apps/details?id=com.dbm.sgt","https://apps.apple.com/us/app/taskcheck-by-arrowtrack/id6504231465"],t.R)
 B.FP=s([B.J7,B.Jx,B.J5,B.J6,B.Jw,B.Jv,B.Jy,B.Ju],t.H7)
 B.Vf=new A.fy(0,1)
 B.Vk=new A.fy(0.5,1)
@@ -84626,32 +84626,32 @@ B.Vo=new A.fy(0.8875,0.25)
 B.Vm=new A.fy(0.925,0.5)
 B.Vg=new A.fy(0.9625,0.75)
 B.Vh=new A.fy(1,1)
-B.G_=s([B.Vf,B.Vk,B.Vn,B.Vp,B.Vl,B.Vj,B.Vi,B.Vo,B.Vm,B.Vg,B.Vh],A.ak("A<fy>"))
+B.G0=s([B.Vf,B.Vk,B.Vn,B.Vp,B.Vl,B.Vj,B.Vi,B.Vo,B.Vm,B.Vg,B.Vh],A.ak("A<fy>"))
 B.eY=new A.ko(0,"left")
 B.kL=new A.ko(1,"right")
 B.cr=new A.ko(2,"center")
 B.hW=new A.ko(3,"justify")
 B.b8=new A.ko(4,"start")
 B.kM=new A.ko(5,"end")
-B.G1=s([B.eY,B.kL,B.cr,B.hW,B.b8,B.kM],A.ak("A<ko>"))
-B.Gf=s([2,1.13276676],t.n)
+B.G2=s([B.eY,B.kL,B.cr,B.hW,B.b8,B.kM],A.ak("A<ko>"))
+B.Gg=s([2,1.13276676],t.n)
 B.Fg=s([2.18349805,1.20311921],t.n)
-B.Hc=s([2.33888662,1.28698796],t.n)
-B.He=s([2.48660575,1.36351941],t.n)
-B.G6=s([2.62226596,1.44717976],t.n)
-B.G8=s([2.7514899,1.53385819],t.n)
-B.GD=s([3.36298265,1.98288283],t.n)
-B.Gj=s([4.08649929,2.23811846],t.n)
-B.Gu=s([4.85481134,2.47563463],t.n)
-B.G7=s([5.62945551,2.72948597],t.n)
-B.Gg=s([6.43023796,2.98020421],t.n)
-B.nn=s([B.Gf,B.Fg,B.Hc,B.He,B.G6,B.G8,B.GD,B.Gj,B.Gu,B.G7,B.Gg],t.zg)
+B.Hb=s([2.33888662,1.28698796],t.n)
+B.Hd=s([2.48660575,1.36351941],t.n)
+B.G7=s([2.62226596,1.44717976],t.n)
+B.G9=s([2.7514899,1.53385819],t.n)
+B.GE=s([3.36298265,1.98288283],t.n)
+B.Gk=s([4.08649929,2.23811846],t.n)
+B.Gv=s([4.85481134,2.47563463],t.n)
+B.G8=s([5.62945551,2.72948597],t.n)
+B.Gh=s([6.43023796,2.98020421],t.n)
+B.nn=s([B.Gg,B.Fg,B.Hb,B.Hd,B.G7,B.G9,B.GE,B.Gk,B.Gv,B.G8,B.Gh],t.zg)
 B.ma=new A.w(1,0.058823529411764705,0.09019607843137255,0.16470588235294117,B.e)
 B.BM=new A.w(1,0.34509803921568627,0.10980392156862745,0.5294117647058824,B.e)
-B.G2=s([B.ma,B.BM,B.ma],t.g)
-B.G5=s([B.ir,B.is],A.ak("A<vg>"))
+B.G3=s([B.ma,B.BM,B.ma],t.g)
+B.G6=s([B.ir,B.is],A.ak("A<vg>"))
 B.cG=s([B.af,B.aF],t.g)
-B.Gd=s([1116352408,1899447441,3049323471,3921009573,961987163,1508970993,2453635748,2870763221,3624381080,310598401,607225278,1426881987,1925078388,2162078206,2614888103,3248222580,3835390401,4022224774,264347078,604807628,770255983,1249150122,1555081692,1996064986,2554220882,2821834349,2952996808,3210313671,3336571891,3584528711,113926993,338241895,666307205,773529912,1294757372,1396182291,1695183700,1986661051,2177026350,2456956037,2730485921,2820302411,3259730800,3345764771,3516065817,3600352804,4094571909,275423344,430227734,506948616,659060556,883997877,958139571,1322822218,1537002063,1747873779,1955562222,2024104815,2227730452,2361852424,2428436474,2756734187,3204031479,3329325298],t.t)
+B.Ge=s([1116352408,1899447441,3049323471,3921009573,961987163,1508970993,2453635748,2870763221,3624381080,310598401,607225278,1426881987,1925078388,2162078206,2614888103,3248222580,3835390401,4022224774,264347078,604807628,770255983,1249150122,1555081692,1996064986,2554220882,2821834349,2952996808,3210313671,3336571891,3584528711,113926993,338241895,666307205,773529912,1294757372,1396182291,1695183700,1986661051,2177026350,2456956037,2730485921,2820302411,3259730800,3345764771,3516065817,3600352804,4094571909,275423344,430227734,506948616,659060556,883997877,958139571,1322822218,1537002063,1747873779,1955562222,2024104815,2227730452,2361852424,2428436474,2756734187,3204031479,3329325298],t.t)
 B.ap=new A.eb(0,"icon")
 B.aE=new A.eb(1,"input")
 B.a3=new A.eb(2,"label")
@@ -84663,7 +84663,7 @@ B.ax=new A.eb(7,"suffixIcon")
 B.bx=new A.eb(8,"helperError")
 B.bO=new A.eb(9,"counter")
 B.ca=new A.eb(10,"container")
-B.Gh=s([B.ap,B.aE,B.a3,B.aK,B.aL,B.aM,B.Y,B.ax,B.bx,B.bO,B.ca],A.ak("A<eb>"))
+B.Gi=s([B.ap,B.aE,B.a3,B.aK,B.aL,B.aM,B.Y,B.ax,B.bx,B.bO,B.ca],A.ak("A<eb>"))
 B.Hv=new A.lu("en","US")
 B.no=s([B.Hv],t.ss)
 B.V4=new A.kC(0,0)
@@ -84677,12 +84677,12 @@ B.zr=new A.G1(2,"outer")
 B.m8=new A.w(0.09803921568627451,0,0,0,B.e)
 B.h=new A.f(0,0)
 B.zH=new A.dl(0.2,B.zr,B.m8,B.h,11)
-B.Gs=s([B.zH],t.sq)
+B.Gt=s([B.zH],t.sq)
 B.Oz=new A.A1(0,"left")
 B.OA=new A.A1(1,"right")
-B.Gt=s([B.Oz,B.OA],A.ak("A<A1>"))
+B.Gu=s([B.Oz,B.OA],A.ak("A<A1>"))
 B.ac=new A.Ae(0,"upstream")
-B.Gv=s([B.ac,B.k],A.ak("A<Ae>"))
+B.Gw=s([B.ac,B.k],A.ak("A<Ae>"))
 B.aW=new A.Ai(0,"rtl")
 B.al=new A.Ai(1,"ltr")
 B.jK=s([B.aW,B.al],A.ak("A<Ai>"))
@@ -84691,18 +84691,18 @@ B.Jc=new A.aX(B.hn,["2021 \u2013 2024","Lucknow, UP","Bachelor of Technology (C.
 B.Ja=new A.aX(B.hn,["2016 \u2013 2019","Siddharth Nagar, UP","Polytechnic Diploma (C.S.E)","Board of Technical Education Uttar Pradesh"],t.R)
 B.J9=new A.aX(B.hn,["2013 \u2013 2015","Azamgarh, UP","Intermediate (Class XII)",u.r],t.R)
 B.Jb=new A.aX(B.hn,["2011 \u2013 2013","Azamgarh, UP","High School (Class X)",u.r],t.R)
-B.Gw=s([B.Jc,B.Ja,B.J9,B.Jb],t.H7)
+B.Gx=s([B.Jc,B.Ja,B.J9,B.Jb],t.H7)
 B.cc=new A.is(0,"leading")
 B.bm=new A.is(1,"title")
 B.cd=new A.is(2,"subtitle")
 B.d1=new A.is(3,"trailing")
-B.GC=s([B.cc,B.bm,B.cd,B.d1],A.ak("A<is>"))
+B.GD=s([B.cc,B.bm,B.cd,B.d1],A.ak("A<is>"))
 B.AV=new A.n8(0,"auto")
 B.AW=new A.n8(1,"full")
 B.AX=new A.n8(2,"chromium")
-B.GE=s([B.AV,B.AW,B.AX,B.dc],A.ak("A<n8>"))
+B.GF=s([B.AV,B.AW,B.AX,B.dc],A.ak("A<n8>"))
 B.bv=new A.f1(1,"fuchsia")
-B.GG=s([B.ah,B.bv,B.F,B.bh,B.aJ,B.bi],A.ak("A<f1>"))
+B.GH=s([B.ah,B.bv,B.F,B.bh,B.aJ,B.bi],A.ak("A<f1>"))
 B.yS=new A.tI(0,"topLeft")
 B.yV=new A.tI(3,"bottomRight")
 B.V_=new A.kB(B.yS,B.yV)
@@ -84711,7 +84711,7 @@ B.yT=new A.tI(1,"topRight")
 B.yU=new A.tI(2,"bottomLeft")
 B.V0=new A.kB(B.yT,B.yU)
 B.V1=new A.kB(B.yU,B.yT)
-B.GH=s([B.V_,B.V2,B.V0,B.V1],A.ak("A<kB>"))
+B.GI=s([B.V_,B.V2,B.V0,B.V1],A.ak("A<kB>"))
 B.M7=new A.aa(0.01339448,0.05994973)
 B.M6=new A.aa(0.13664115,0.13592082)
 B.LU=new A.aa(0.24545546,0.14099516)
@@ -84754,33 +84754,33 @@ B.Wt=s([],t.p)
 B.GW=s([],t.t)
 B.ns=s([],t.ee)
 B.GZ=s([],t.XS)
-B.hl={period:0,company:1,role:2,location:3,description:4,projects:5}
-B.GI=s(["Trading app \u2013 28+ flavors using a single code (Under Development)","Created Glamstic e-commerce app"],t.s)
-B.Jl=new A.aX(B.hl,["06/2025 - Present","Capyngen Private Limited","Flutter Developer","Gurgaon, India","Designing Dreams, Crafting Success",B.GI],t.R)
-B.Gl=s(["ShalPay AppTiny Droplets App","Shnut App","Akshya Portfolio","Aryan Elevators"],t.s)
-B.Ji=new A.aX(B.hl,["_ - _","Freelancer","Flutter Developer","New Delhi, India","Cross-Platform Mobile App Developer building high-performance apps",B.Gl],t.R)
-B.Hk=s(["Altcase App","Step Saga App"],t.s)
-B.Jj=new A.aX(B.hl,["11/2024 - 02/2025","CloudAstra Technologies","Flutter Developer","Noida, India","Drive Innovation with Premium IT/Cloud Solutions",B.Hk],t.R)
-B.GP=s(["Castle Couture","OohApp","Arrow Track","Grower Secret"],t.s)
-B.Jk=new A.aX(B.hl,["04/2023 - 11/2024","Digital Brain Media","Flutter Developer","Lucknow, UP","Software company focused on innovative digital solutions",B.GP],t.R)
-B.H8=s([B.Jl,B.Ji,B.Jj,B.Jk],t.H7)
 B.hm={category:0,icon:1,skills:2}
 B.Eg=new A.dC(58822,"MaterialIcons",!1)
-B.G0=s(["Flutter","Dart","Swift","Kotlin","iOS Development","Android Development","Native App","Hybrid App","Web App"],t.s)
-B.Jn=new A.aX(B.hm,["Mobile Development",B.Eg,B.G0],t.R)
+B.G1=s(["Flutter","Dart","Swift","Kotlin","iOS Development","Android Development","Native App","Hybrid App","Web App"],t.s)
+B.Jn=new A.aX(B.hm,["Mobile Development",B.Eg,B.G1],t.R)
 B.Eh=new A.dC(58889,"MaterialIcons",!1)
 B.Fd=s(["Python (FastAPI)","Firebase","Supabase","MySQL","SQLite","Hive","RESTful API","AWS Cognito"],t.s)
 B.Jo=new A.aX(B.hm,["Backend & Database",B.Eh,B.Fd],t.R)
-B.Ga=s(["BLoC","Provider","Riverpod","GetX","MVC","MVVM","Clean Architecture","Dependency Injection"],t.s)
-B.Jp=new A.aX(B.hm,["State Management",B.jG,B.Ga],t.R)
+B.Gb=s(["BLoC","Provider","Riverpod","GetX","MVC","MVVM","Clean Architecture","Dependency Injection"],t.s)
+B.Jp=new A.aX(B.hm,["State Management",B.jG,B.Gb],t.R)
 B.Ef=new A.dC(58608,"MaterialIcons",!1)
-B.FT=s(["WebRTC","WebSocket","Flutter Flavor","Razorpay","Stripe","Apple IAP","Google AdMob","Push Notifications","Platform Channels (Flutter \u2194 Native)","Advanced WebView Integration (Data Capture, JS Bridging)",u.Y],t.s)
-B.Jm=new A.aX(B.hm,["Integration & Tools",B.Ef,B.FT],t.R)
-B.H9=s([B.Jn,B.Jo,B.Jp,B.Jm],t.H7)
+B.FU=s(["WebRTC","WebSocket","Flutter Flavor","Razorpay","Stripe","Apple IAP","Google AdMob","Push Notifications","Platform Channels (Flutter \u2194 Native)","Advanced WebView Integration (Data Capture, JS Bridging)",u.Y],t.s)
+B.Jm=new A.aX(B.hm,["Integration & Tools",B.Ef,B.FU],t.R)
+B.H8=s([B.Jn,B.Jo,B.Jp,B.Jm],t.H7)
 B.Kd=new A.f(0,2)
 B.zG=new A.dl(0.75,B.d6,B.m8,B.Kd,1.5)
-B.Hf=s([B.zG],t.sq)
+B.He=s([B.zG],t.sq)
 B.eq=s([B.cw,B.cf,B.f7,B.f8,B.iq],t.QP)
+B.hl={period:0,company:1,role:2,location:3,description:4,projects:5}
+B.FS=s(["Trading app \u2013 28+ flavors using a single code (Under Development)"],t.s)
+B.Jk=new A.aX(B.hl,["06/2025 - 01/2026","Capyngen Private Limited","Flutter Developer","Gurgaon, India","Designing Dreams, Crafting Success",B.FS],t.R)
+B.Gm=s(["ShalPay AppTiny Droplets App","Shnut App","Akshya Portfolio","Aryan Elevators"],t.s)
+B.Ji=new A.aX(B.hl,["_ - _","Freelancer","Flutter Developer","New Delhi, India","Cross-Platform Mobile App Developer building high-performance apps",B.Gm],t.R)
+B.Hj=s(["Altcase App","Step Saga App"],t.s)
+B.Jj=new A.aX(B.hl,["11/2024 - 02/2025","CloudAstra Technologies","Flutter Developer","Noida, India","Drive Innovation with Premium IT/Cloud Solutions",B.Hj],t.R)
+B.GP=s(["Castle Couture","OohApp","Arrow Track","Grower Secret"],t.s)
+B.Jl=new A.aX(B.hl,["04/2023 - 11/2024","Digital Brain Media","Flutter Developer","Lucknow, UP","Software company focused on innovative digital solutions",B.GP],t.R)
+B.Hl=s([B.Jk,B.Ji,B.Jj,B.Jl],t.H7)
 B.nt=s([B.dm,B.fR,B.fS,B.n,B.R,B.bC,B.ab,B.fT,B.ek],A.ak("A<fL>"))
 B.ds=new A.fS(0,"controlModifier")
 B.dt=new A.fS(1,"shiftModifier")
@@ -85332,57 +85332,57 @@ B.FH=s([54,null,null,8589935158],t.Z)
 B.FI=s([55,null,null,8589935159],t.Z)
 B.FJ=s([56,null,null,8589935160],t.Z)
 B.FL=s([57,null,null,8589935161],t.Z)
-B.Gx=s([8589934852,8589934852,8589934853,null],t.Z)
+B.Gy=s([8589934852,8589934852,8589934853,null],t.Z)
 B.Fj=s([4294967555,null,4294967555,null],t.Z)
 B.Fk=s([4294968065,null,null,8589935154],t.Z)
 B.Fl=s([4294968066,null,null,8589935156],t.Z)
 B.Fm=s([4294968067,null,null,8589935158],t.Z)
 B.Fn=s([4294968068,null,null,8589935160],t.Z)
 B.Fs=s([4294968321,null,null,8589935157],t.Z)
-B.Gy=s([8589934848,8589934848,8589934849,null],t.Z)
+B.Gz=s([8589934848,8589934848,8589934849,null],t.Z)
 B.Fi=s([4294967423,null,null,8589935150],t.Z)
 B.Fo=s([4294968069,null,null,8589935153],t.Z)
 B.Fh=s([4294967309,null,null,8589935117],t.Z)
 B.Fp=s([4294968070,null,null,8589935159],t.Z)
 B.Ft=s([4294968327,null,null,8589935152],t.Z)
-B.Gz=s([8589934854,8589934854,8589934855,null],t.Z)
+B.GA=s([8589934854,8589934854,8589934855,null],t.Z)
 B.Fq=s([4294968071,null,null,8589935155],t.Z)
 B.Fr=s([4294968072,null,null,8589935161],t.Z)
-B.GA=s([8589934850,8589934850,8589934851,null],t.Z)
-B.tu=new A.cS(["*",B.Fu,"+",B.Fv,"-",B.Fw,".",B.Fx,"/",B.Fy,"0",B.Fz,"1",B.FA,"2",B.FC,"3",B.FE,"4",B.FF,"5",B.FG,"6",B.FH,"7",B.FI,"8",B.FJ,"9",B.FL,"Alt",B.Gx,"AltGraph",B.Fj,"ArrowDown",B.Fk,"ArrowLeft",B.Fl,"ArrowRight",B.Fm,"ArrowUp",B.Fn,"Clear",B.Fs,"Control",B.Gy,"Delete",B.Fi,"End",B.Fo,"Enter",B.Fh,"Home",B.Fp,"Insert",B.Ft,"Meta",B.Gz,"PageDown",B.Fq,"PageUp",B.Fr,"Shift",B.GA],A.ak("cS<u,T<n?>>"))
+B.GB=s([8589934850,8589934850,8589934851,null],t.Z)
+B.tu=new A.cS(["*",B.Fu,"+",B.Fv,"-",B.Fw,".",B.Fx,"/",B.Fy,"0",B.Fz,"1",B.FA,"2",B.FC,"3",B.FE,"4",B.FF,"5",B.FG,"6",B.FH,"7",B.FI,"8",B.FJ,"9",B.FL,"Alt",B.Gy,"AltGraph",B.Fj,"ArrowDown",B.Fk,"ArrowLeft",B.Fl,"ArrowRight",B.Fm,"ArrowUp",B.Fn,"Clear",B.Fs,"Control",B.Gz,"Delete",B.Fi,"End",B.Fo,"Enter",B.Fh,"Home",B.Fp,"Insert",B.Ft,"Meta",B.GA,"PageDown",B.Fq,"PageUp",B.Fr,"Shift",B.GB],A.ak("cS<u,T<n?>>"))
 B.FK=s([B.nB,null,null,B.th],t.L)
-B.Ha=s([B.t3,null,null,B.ti],t.L)
-B.Ge=s([B.t4,null,null,B.tj],t.L)
-B.GB=s([B.t5,null,null,B.cK],t.L)
+B.H9=s([B.t3,null,null,B.ti],t.L)
+B.Gf=s([B.t4,null,null,B.tj],t.L)
+B.GC=s([B.t5,null,null,B.cK],t.L)
 B.Fb=s([B.t6,null,null,B.tk],t.L)
 B.Ho=s([B.t7,null,null,B.jY],t.L)
-B.Hj=s([B.t8,null,null,B.ez],t.L)
+B.Hi=s([B.t8,null,null,B.ez],t.L)
 B.FR=s([B.t9,null,null,B.cL],t.L)
 B.Hs=s([B.ta,null,null,B.eA],t.L)
-B.Hi=s([B.tb,null,null,B.cM],t.L)
+B.Hh=s([B.tb,null,null,B.cM],t.L)
 B.FO=s([B.tc,null,null,B.jZ],t.L)
 B.Ff=s([B.td,null,null,B.cN],t.L)
-B.G3=s([B.te,null,null,B.eB],t.L)
-B.Hb=s([B.tf,null,null,B.cO],t.L)
-B.Hd=s([B.tg,null,null,B.eC],t.L)
-B.FU=s([B.ex,B.ex,B.hb,null],t.L)
+B.G4=s([B.te,null,null,B.eB],t.L)
+B.Ha=s([B.tf,null,null,B.cO],t.L)
+B.Hc=s([B.tg,null,null,B.eC],t.L)
+B.FV=s([B.ex,B.ex,B.hb,null],t.L)
 B.Hp=s([B.h7,null,B.h7,null],t.L)
-B.Gm=s([B.bG,null,null,B.cL],t.L)
-B.Gn=s([B.bs,null,null,B.cM],t.L)
-B.Go=s([B.bt,null,null,B.cN],t.L)
+B.Gn=s([B.bG,null,null,B.cL],t.L)
+B.Go=s([B.bs,null,null,B.cM],t.L)
+B.Gp=s([B.bt,null,null,B.cN],t.L)
 B.Hr=s([B.bH,null,null,B.cO],t.L)
-B.Hg=s([B.jR,null,null,B.jZ],t.L)
-B.FV=s([B.ew,B.ew,B.ha,null],t.L)
+B.Hf=s([B.jR,null,null,B.jZ],t.L)
+B.FW=s([B.ew,B.ew,B.ha,null],t.L)
 B.GM=s([B.aA,null,null,B.cK],t.L)
-B.Gp=s([B.cH,null,null,B.ez],t.L)
+B.Gq=s([B.cH,null,null,B.ez],t.L)
 B.FN=s([B.h6,null,null,B.jX],t.L)
-B.Gq=s([B.cI,null,null,B.eB],t.L)
-B.Hh=s([B.jS,null,null,B.jY],t.L)
-B.FW=s([B.ey,B.ey,B.hc,null],t.L)
-B.Gr=s([B.eu,null,null,B.eA],t.L)
+B.Gr=s([B.cI,null,null,B.eB],t.L)
+B.Hg=s([B.jS,null,null,B.jY],t.L)
+B.FX=s([B.ey,B.ey,B.hc,null],t.L)
+B.Gs=s([B.eu,null,null,B.eA],t.L)
 B.GV=s([B.ev,null,null,B.eC],t.L)
-B.FX=s([B.cn,B.cn,B.cJ,null],t.L)
-B.Jh=new A.cS(["*",B.FK,"+",B.Ha,"-",B.Ge,".",B.GB,"/",B.Fb,"0",B.Ho,"1",B.Hj,"2",B.FR,"3",B.Hs,"4",B.Hi,"5",B.FO,"6",B.Ff,"7",B.G3,"8",B.Hb,"9",B.Hd,"Alt",B.FU,"AltGraph",B.Hp,"ArrowDown",B.Gm,"ArrowLeft",B.Gn,"ArrowRight",B.Go,"ArrowUp",B.Hr,"Clear",B.Hg,"Control",B.FV,"Delete",B.GM,"End",B.Gp,"Enter",B.FN,"Home",B.Gq,"Insert",B.Hh,"Meta",B.FW,"PageDown",B.Gr,"PageUp",B.GV,"Shift",B.FX],A.ak("cS<u,T<e?>>"))
+B.FY=s([B.cn,B.cn,B.cJ,null],t.L)
+B.Jh=new A.cS(["*",B.FK,"+",B.H9,"-",B.Gf,".",B.GC,"/",B.Fb,"0",B.Ho,"1",B.Hi,"2",B.FR,"3",B.Hs,"4",B.Hh,"5",B.FO,"6",B.Ff,"7",B.G4,"8",B.Ha,"9",B.Hc,"Alt",B.FV,"AltGraph",B.Hp,"ArrowDown",B.Gn,"ArrowLeft",B.Go,"ArrowRight",B.Gp,"ArrowUp",B.Hr,"Clear",B.Hf,"Control",B.FW,"Delete",B.GM,"End",B.Gq,"Enter",B.FN,"Home",B.Gr,"Insert",B.Hg,"Meta",B.FX,"PageDown",B.Gs,"PageUp",B.GV,"Shift",B.FY],A.ak("cS<u,T<e?>>"))
 B.K6={KeyA:0,KeyB:1,KeyC:2,KeyD:3,KeyE:4,KeyF:5,KeyG:6,KeyH:7,KeyI:8,KeyJ:9,KeyK:10,KeyL:11,KeyM:12,KeyN:13,KeyO:14,KeyP:15,KeyQ:16,KeyR:17,KeyS:18,KeyT:19,KeyU:20,KeyV:21,KeyW:22,KeyX:23,KeyY:24,KeyZ:25,Digit1:26,Digit2:27,Digit3:28,Digit4:29,Digit5:30,Digit6:31,Digit7:32,Digit8:33,Digit9:34,Digit0:35,Minus:36,Equal:37,BracketLeft:38,BracketRight:39,Backslash:40,Semicolon:41,Quote:42,Backquote:43,Comma:44,Period:45,Slash:46}
 B.tv=new A.aX(B.K6,["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z","1","2","3","4","5","6","7","8","9","0","-","=","[","]","\\",";","'","`",",",".","/"],t.li)
 B.K2={Abort:0,Again:1,AltLeft:2,AltRight:3,ArrowDown:4,ArrowLeft:5,ArrowRight:6,ArrowUp:7,AudioVolumeDown:8,AudioVolumeMute:9,AudioVolumeUp:10,Backquote:11,Backslash:12,Backspace:13,BracketLeft:14,BracketRight:15,BrightnessDown:16,BrightnessUp:17,BrowserBack:18,BrowserFavorites:19,BrowserForward:20,BrowserHome:21,BrowserRefresh:22,BrowserSearch:23,BrowserStop:24,CapsLock:25,Comma:26,ContextMenu:27,ControlLeft:28,ControlRight:29,Convert:30,Copy:31,Cut:32,Delete:33,Digit0:34,Digit1:35,Digit2:36,Digit3:37,Digit4:38,Digit5:39,Digit6:40,Digit7:41,Digit8:42,Digit9:43,DisplayToggleIntExt:44,Eject:45,End:46,Enter:47,Equal:48,Escape:49,Esc:50,F1:51,F10:52,F11:53,F12:54,F13:55,F14:56,F15:57,F16:58,F17:59,F18:60,F19:61,F2:62,F20:63,F21:64,F22:65,F23:66,F24:67,F3:68,F4:69,F5:70,F6:71,F7:72,F8:73,F9:74,Find:75,Fn:76,FnLock:77,GameButton1:78,GameButton10:79,GameButton11:80,GameButton12:81,GameButton13:82,GameButton14:83,GameButton15:84,GameButton16:85,GameButton2:86,GameButton3:87,GameButton4:88,GameButton5:89,GameButton6:90,GameButton7:91,GameButton8:92,GameButton9:93,GameButtonA:94,GameButtonB:95,GameButtonC:96,GameButtonLeft1:97,GameButtonLeft2:98,GameButtonMode:99,GameButtonRight1:100,GameButtonRight2:101,GameButtonSelect:102,GameButtonStart:103,GameButtonThumbLeft:104,GameButtonThumbRight:105,GameButtonX:106,GameButtonY:107,GameButtonZ:108,Help:109,Home:110,Hyper:111,Insert:112,IntlBackslash:113,IntlRo:114,IntlYen:115,KanaMode:116,KeyA:117,KeyB:118,KeyC:119,KeyD:120,KeyE:121,KeyF:122,KeyG:123,KeyH:124,KeyI:125,KeyJ:126,KeyK:127,KeyL:128,KeyM:129,KeyN:130,KeyO:131,KeyP:132,KeyQ:133,KeyR:134,KeyS:135,KeyT:136,KeyU:137,KeyV:138,KeyW:139,KeyX:140,KeyY:141,KeyZ:142,KeyboardLayoutSelect:143,Lang1:144,Lang2:145,Lang3:146,Lang4:147,Lang5:148,LaunchApp1:149,LaunchApp2:150,LaunchAssistant:151,LaunchControlPanel:152,LaunchMail:153,LaunchScreenSaver:154,MailForward:155,MailReply:156,MailSend:157,MediaFastForward:158,MediaPause:159,MediaPlay:160,MediaPlayPause:161,MediaRecord:162,MediaRewind:163,MediaSelect:164,MediaStop:165,MediaTrackNext:166,MediaTrackPrevious:167,MetaLeft:168,MetaRight:169,MicrophoneMuteToggle:170,Minus:171,NonConvert:172,NumLock:173,Numpad0:174,Numpad1:175,Numpad2:176,Numpad3:177,Numpad4:178,Numpad5:179,Numpad6:180,Numpad7:181,Numpad8:182,Numpad9:183,NumpadAdd:184,NumpadBackspace:185,NumpadClear:186,NumpadClearEntry:187,NumpadComma:188,NumpadDecimal:189,NumpadDivide:190,NumpadEnter:191,NumpadEqual:192,NumpadMemoryAdd:193,NumpadMemoryClear:194,NumpadMemoryRecall:195,NumpadMemoryStore:196,NumpadMemorySubtract:197,NumpadMultiply:198,NumpadParenLeft:199,NumpadParenRight:200,NumpadSubtract:201,Open:202,PageDown:203,PageUp:204,Paste:205,Pause:206,Period:207,Power:208,PrintScreen:209,PrivacyScreenToggle:210,Props:211,Quote:212,Resume:213,ScrollLock:214,Select:215,SelectTask:216,Semicolon:217,ShiftLeft:218,ShiftRight:219,ShowAllWindows:220,Slash:221,Sleep:222,Space:223,Super:224,Suspend:225,Tab:226,Turbo:227,Undo:228,WakeUp:229,ZoomToggle:230}
